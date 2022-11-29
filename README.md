@@ -3,7 +3,9 @@ Prediction models, Optimization, Transportation and Logistic Process
 
 
 
-# # Motivation
+
+<p><h2 align="center"><font color="red">  Motivation </font></h2>
+
 <p>The movement of goods and services from place to place has been of ageless economic importance to both developing and developed nations. This section of human endeavour has called for countless and relentless researches to achieve an optimal performance in any transportation processing. Moreso, the advent of sophisticated technological innovations has set in motion an unending demand to develop predictive models to monitor and optimize transport and logistic processes. 
 
 Our quest is to apply data analytics techniques to discuss the effective analytic methods of monitoring transport and logistic processes as well as to develop an optimal path to predict possible delivery time for a particular transportation leg.
@@ -16,7 +18,8 @@ The economic importance of these are:
 </ul>
 </p>
 
-# # Description of Dataset for CARGO 2000
+
+<p><h2 align="center"><font color="red"> Description of Dataset for CARGO 2000 </font></h2>
 
 The diagram below shows a model of the business processes covered in the case study. It represents the business processes of a freight forwarding company, in which up to three smaller shipments from suppliers are consolidated and in turn shipped together to customers. The business process is structured into incoming and outgoing transport legs, which jointly aim at ensuring that freight is timely delivered to customers.
 
@@ -38,7 +41,6 @@ The transport services are denoted by three-letter acronyms according to the Car
 The reconstruction process involved data sanitation and anonymization. We filtered overlapping and incomplete Cargo 2000 messages, removed canceled transports (i.e., deleted route maps), sanitized for exceptions from the C2K system (such as events occurring before route map creation) and homogenized the way information was represented in different message types. Finally, due to confidentiality reasons, message fields which might exhibit business critical or customer-related data (such as airway bill numbers, flight numbers and airport codes) have been eliminated or masked. <b> source: S-CUBE</b>
 
 
-# # Table of Content
 
 <p><h2 align="center"><font color="red"> TABLE OF CONTENT </font></h2>
 <ol>
